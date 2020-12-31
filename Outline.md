@@ -31,13 +31,24 @@ General introduction to CS, and introduce key concepts and terminology.
 
 ## 2 Python Data Types
 
+- Use NYPD frinking data to illustrate
 - Expressions, Variables, Assignments
 - Strings
-- Lists
+- Lists, Dictionary
+
+## 3 Advanced topics
+
 - Objects and Classes
 - Python Standard Library 
+- numpy / scipy
+- pandas
 
+## Problems
 
+1. NYPD Frisking data
+2. COMPAS 
+3. Immigrant crime 
+4. Gerrymandering
 
 ## Identify Sample problems 
 
